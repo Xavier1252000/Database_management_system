@@ -1,0 +1,3 @@
+SQL>DROP VIEW [Brazil Customers];
+
+You have made changes to the database

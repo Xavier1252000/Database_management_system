@@ -1,0 +1,7 @@
+SQL>INSERT INTO EMPLOYEE
+    (ssn,'name',bdate,salary,mgrssn,dno)
+    values(1,'vinod',2-dec-18,5000,4323,24);
+
+OUTPUT :
+
+row created

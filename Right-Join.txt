@@ -1,0 +1,11 @@
+SQL>SELECT Orders.OrderID, Employees.LastName, Employees.FirstName
+    FROM Orders
+    RIGHT JOIN Employees
+    ON Orders.EmployeeID = Employees.EmployeeID
+    ORDER BY Orders.OrderID;
+
+Number of Records: 3
+OrderID	LastName	FirstName
+10246 	West 	        Adam 
+10248 	Buchanan 	Steven 
+10249 	Suyama 	        Michael 

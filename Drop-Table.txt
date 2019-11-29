@@ -1,0 +1,6 @@
+SQL>DROP TABLE stud;
+
+OUTPUT :
+
+table dropped 
+    

@@ -1,0 +1,5 @@
+SQL>UPDATE student
+    SET Name='ravi', salary=10000
+    WHERE ssn=1;
+
+You have made changes to the database. Rows affected: 1S

@@ -1,0 +1,5 @@
+SQL>RENAME student to stud ;
+
+OUTPUT :
+
+table renamed 

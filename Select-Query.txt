@@ -1,0 +1,5 @@
+SQL>SELECT * 
+    FROM student;
+
+ssn  name     bdate        salary  mgrssn  dno
+1    vinod    2-dec-2000   5000    4323    24

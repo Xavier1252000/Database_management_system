@@ -1,0 +1,6 @@
+SQL>ALTER TABLE student
+    DROP(city);
+
+OUTPUT :
+
+table alter 

@@ -1,0 +1,12 @@
+SQL>SELECT Customers.CustomerName, Orders.OrderID
+    FROM Customers
+    LEFT JOIN Orders
+    ON Customers.CustomerID=Orders.CustomerID
+    ORDER BY Customers.CustomerName;
+
+
+Number of Records: 3
+CustomerName	OrderID
+Alfreds 	null
+Ana Tru 	10308
+Antonio Moreno 	10365

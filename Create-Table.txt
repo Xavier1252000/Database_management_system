@@ -1,0 +1,11 @@
+SQL>CREATE TABLE student
+(
+roll_no int primary key,
+Name varchar(15),
+dept varchar(4),
+city varchar(15),
+dob date not null,
+gender varchar(1)
+);
+
+table created

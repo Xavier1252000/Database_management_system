@@ -1,0 +1,6 @@
+SQL>ALTER TABLE student
+    modify[regnumber varchar(16)] ;
+
+OUTPUT :
+
+table altered 

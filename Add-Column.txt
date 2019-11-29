@@ -1,0 +1,6 @@
+SQL>ALTER TABLE student
+    ADD(age int NOT NULL);
+
+OUTPUT :
+
+table altered
